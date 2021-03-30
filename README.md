@@ -1,4 +1,4 @@
-# Ethereum RPC tests
+# Vapory RPC tests
 
 
 Untested:
